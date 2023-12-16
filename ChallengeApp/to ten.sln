@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadanie domowe dzien 5", "zadanie domowe dzien 5\zadanie domowe dzien 5.csproj", "{3FD4F251-B702-4C78-A670-D83A49DFD546}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "to ten", "to ten\to ten.csproj", "{42897CDB-9048-4327-978A-27926E3F32CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3FD4F251-B702-4C78-A670-D83A49DFD546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3FD4F251-B702-4C78-A670-D83A49DFD546}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3FD4F251-B702-4C78-A670-D83A49DFD546}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3FD4F251-B702-4C78-A670-D83A49DFD546}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42897CDB-9048-4327-978A-27926E3F32CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42897CDB-9048-4327-978A-27926E3F32CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42897CDB-9048-4327-978A-27926E3F32CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42897CDB-9048-4327-978A-27926E3F32CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7F75DC27-0CF0-4269-81A9-5F03CCD44875}
+		SolutionGuid = {8ECECAB3-BA1E-46C3-866F-8C05CEE30E41}
 	EndGlobalSection
 EndGlobal
